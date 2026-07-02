@@ -211,3 +211,5 @@ __marimo__/
 .csv
 .pkl
 .pickle
+.Rproj.user
+.positai
